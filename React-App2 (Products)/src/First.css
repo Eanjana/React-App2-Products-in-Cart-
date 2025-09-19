@@ -1,0 +1,40 @@
+.Main1{
+    width: 25vw;
+    
+    background-color: #8a2be2;
+    margin: 5px;
+    border: 10px solid #530b96;
+    font-size: 8px;
+    border-radius: 20px;
+   }
+
+*{
+    
+    text-align: center;
+    color: white;
+    align-content: center;
+    
+}
+    
+
+    .Main1 img{
+        width: 20vw;
+        height: 45vh;
+        border-radius: 20px;
+    }
+    .Main1 button{
+         background-color: rgb(9, 43, 106);
+         font-size: 15px;
+         margin: 10px;
+         border-radius: 20px;
+         width: 120px;
+         height: 40px;
+    }
+
+    .one{
+        font-size: 30px;
+    }
+
+    .text2{
+        font-size: 20px;
+    }
